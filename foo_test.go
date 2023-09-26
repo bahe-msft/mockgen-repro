@@ -1,7 +1,7 @@
-package main
+package mockgenrepro
 
 import (
-	"mockgen-repro/mock_main"
+	"mockgenrepro/mock_main"
 	"testing"
 
 	"go.uber.org/mock/gomock"

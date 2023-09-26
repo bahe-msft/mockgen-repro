@@ -1,4 +1,4 @@
-module mockgen-repro
+module mockgenrepro
 
 go 1.21.0
 
