@@ -13,3 +13,5 @@ require (
 	golang.org/x/net v0.14.0 // indirect
 	golang.org/x/text v0.12.0 // indirect
 )
+
+replace go.uber.org/mock => github.com/bcho/mock v0.0.0-20230926075755-6ed4df535fbf

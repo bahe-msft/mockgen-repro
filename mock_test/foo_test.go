@@ -1,4 +1,4 @@
-package mockgenrepro
+package mock_test
 
 import (
 	"mockgenrepro/mock_main"
